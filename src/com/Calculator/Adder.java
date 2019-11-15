@@ -1,4 +1,4 @@
-package com;
+package com.Calculator;
 
 public class Adder extends CalculateBase {
     public Adder() {}

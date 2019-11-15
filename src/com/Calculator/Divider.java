@@ -1,4 +1,4 @@
-package com;
+package com.Calculator;
 
 public class Divider extends CalculateBase {
     public Divider() {}
